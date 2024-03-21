@@ -1,0 +1,17 @@
+kitchen:
+	sigma_p = 5.0
+	sigma_c = 0.7
+	sigma_n = 0.2
+	sigma_a = 0.2
+
+veach-ajar:
+	sigma_p = 6.0
+	sigma_c = 0.5
+	sigma_n = 0.2
+	sigma_a = 0.1
+
+spaceship:
+	sigma_p = 3.0
+	sigma_c = 0.5
+	sigma_n = 0.1
+	sigma_a = 0.1
